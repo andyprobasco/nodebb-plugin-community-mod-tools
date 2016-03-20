@@ -1,6 +1,6 @@
 {
-	"id": "nodebb-plugin-quickstart",
-	"url": "https://github.com/NodeBB/nodebb-plugin-quickstart",
+	"id": "nodebb-plugin-community-mod-tools",
+	"url": "https://github.com/andyprobasco/nodebb-plugin-community-mod-tools",
 	"library": "./library.js",
 	"hooks": [
 		{
